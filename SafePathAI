@@ -1,0 +1,54 @@
+# SafePathAI-SafePath AI
+
+AI-Powered Disaster Response Agent built with Gemini and Google Cloud Agent Builder.
+
+Overview
+
+SafePath AI helps people prepare for and respond to disasters such as floods, cyclones, and severe weather events.
+
+Instead of only showing alerts, SafePath AI creates personalized action plans, recommends shelters, generates emergency checklists, and helps users stay informed during emergencies.
+
+Features
+
+- Real-time disaster alerts
+- Risk assessment
+- Shelter discovery
+- Personalized evacuation plans
+- Emergency preparedness checklist
+- Family notification workflow
+- Disaster history tracking
+
+Built With
+
+- Python
+- Google Cloud Agent Builder
+- Gemini
+- MongoDB
+- MongoDB MCP Server
+- HTML
+- CSS
+- JavaScript
+- GitHub
+
+How It Works
+
+1. User enters location.
+2. Agent checks disaster conditions.
+3. Risk level is calculated.
+4. Nearby shelters are identified.
+5. Personalized evacuation instructions are generated.
+6. Emergency checklist is created.
+7. Family notification workflow is triggered.
+
+Future Improvements
+
+- Live weather APIs
+- SMS alerts
+- Voice assistant support
+- Offline mode
+- Multi-language support
+
+License
+
+MIT License
+autonomous disaster-response agent that transforms emergency alerts into personalized action plans, evacuation guidance, shelter discovery, and family coordination.
