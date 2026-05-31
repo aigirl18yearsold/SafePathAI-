@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>SafePath AI</title>
+</head>
+<body>
+
+<h1>SafePath AI</h1>
+
+<h2>Risk Level: {{ risk }}</h2>
+
+<h3>Nearby Shelters</h3>
+
+<ul>
+{% for shelter in shelters %}
+<li>{{ shelter }}</li>
+{% endfor %}
+</ul>
+
+<h3>Evacuation Plan</h3>
+
+<ol>
+{% for step in steps %}
+<li>{{ step }}</li>
+{% endfor %}
+</ol>
+
+</body>
+</html>
